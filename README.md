@@ -1,5 +1,7 @@
 # Predict energy behavior of prosumers
 
+![Solar panels on roof](img/cover_photo.jpg "Title")
+
 The repository contains a solution to predict the energy behavior of prosumers in order to minimize the energy imbalance. Prosumers are individuals who both consume and produce energy.
 
 ---
