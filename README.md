@@ -10,7 +10,7 @@ The repository contains a solution to predict the energy behavior of prosumers i
 The energy imbalance is a state where the amounts of energy production and consumption differ. The negative effects of energy imbalace are increased operational costs, potential energy grid instability, and inefficient use of energy resources.
 By predicting the energy behavior of prosumers the energy imbalance could be decreased, thus lowering the operational costs and stabilizing the grid system.
 
-The problem was initially presented by Eesti Energia on [Kaggle](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers/overview).
+The problem was initially presented by Eesti Energia on [Kaggle competition](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers/overview).
 
 ## Quick start
 
@@ -29,7 +29,9 @@ The problem was initially presented by Eesti Energia on [Kaggle](https://www.kag
 7. weather_station_to_county_mapping.csv - Weather station data
 8. county_id_to_name_map.json - County data
 
-All data was provided by Eesti Energia.
+All data was provided by Eesti Energia. 
+
+**NOTE**: This repository contains only a small subset of the original data. To access the full dataset, visit the Kaggle competition [website](https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers/data).
 
 ## Results
 
