@@ -31,6 +31,12 @@ The problem was initially presented by Eesti Energia on [Kaggle](https://www.kag
 
 All data was provided by Eesti Energia.
 
+## Results
+
+![Results](img/results.JPG "Title")
+
+Predicted energy amounts for a sample subset of data can be seen in the figure above. The predicted amounts follow the actual amounts ("Ground truth") relatively well.
+
 ---
    
 
